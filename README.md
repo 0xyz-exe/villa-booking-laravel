@@ -39,3 +39,11 @@ npm audit --omit=dev
 ```
 
 Keep `.env`, personal data, databases, dependencies, uploaded images, and build output out of Git.
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
