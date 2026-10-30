@@ -2,6 +2,17 @@
 
 Standalone Laravel villa-booking platform: searchable listings, amenity selection, guest-capacity/minimum-stay validation, seasonal nightly rates, reservation confirmation/reference, cancellation, verified-stay reviews, owner-scoped management, occupancy/revenue reporting.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Katalog Properti & Pencarian Vila**<br>Pencarian ketersediaan tanggal, filter lokasi destinasi, kapasitas tamu, fasilitas vila, dan tarif sewa per malam | ![Katalog Properti & Pencarian Vila](docs/screenshots/01-villas-catalog.png) |
+| **Detail Vila & Informasi Tarif Musiman**<br>Halaman detail vila lengkap dengan deskripsi fasilitas, jadwal tarif musiman (peak season), dan ulasan tamu | ![Detail Vila & Informasi Tarif Musiman](docs/screenshots/02-villa-detail-booking.png) |
+| **Konfirmasi Reservasi & Kode Referensi**<br>Tanda bukti reservasi resmi dengan kode referensi unik, rentang tanggal menginap, rincian biaya, dan status terkonfirmasi | ![Konfirmasi Reservasi & Kode Referensi](docs/screenshots/03-booking-confirmation.png) |
+| **Dasbor Pemilik & Manajemen Properti**<br>Pusat kontrol operasional pemilik vila: ringkasan reservasi, total pendapatan terkonfirmasi, konfigurasi tarif musiman, dan pendaftaran vila | ![Dasbor Pemilik & Manajemen Properti](docs/screenshots/04-owner-admin-dashboard.png) |
+
+---
+
 ## Setup (Windows)
 
 ```powershell
